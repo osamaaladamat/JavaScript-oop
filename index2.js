@@ -9,4 +9,3 @@ class Teacher extends Student{
 
 
 let teacher1 = new Teacher('96432','Sadi@orange.com','Sadi','0777788888','800', '[English, Arabic, Math, science]' );
-console.log(teacher1);
